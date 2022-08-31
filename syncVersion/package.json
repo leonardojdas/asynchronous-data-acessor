@@ -1,0 +1,18 @@
+{
+  "name": "syncversion",
+  "version": "1.0.0",
+  "description": "Synchronous Version of MenuItemAccessor",
+  "main": "MenuItemAccessor.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "S.Monk",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
